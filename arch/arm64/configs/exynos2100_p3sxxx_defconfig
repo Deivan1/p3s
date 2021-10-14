@@ -6210,7 +6210,7 @@ CONFIG_TZIC_USE_TZDEV=y
 #
 # samsung Performace manager
 #
-CONFIG_KPERFMON=y
+# CONFIG_KPERFMON is not set
 # end of samsung Performace manager
 
 CONFIG_INPUT_SEC_INPUT=m
